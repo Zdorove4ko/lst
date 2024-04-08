@@ -9,3 +9,4 @@ nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/steamos.cloud/4#inet#fw4#vpn_domains
 nftset=/wimg.rule34.xxx/4#inet#fw4#vpn_domains
 nftset=/bunkr-cache.se/4#inet#fw4#vpn_domains
+nftset=/bunkr.media/4#inet#fw4#vpn_domains
