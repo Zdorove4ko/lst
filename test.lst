@@ -20,3 +20,4 @@ nftset=/microsoftonline.com/4#inet#fw4#vpn_domains
 nftset=/avaamo.com/4#inet#fw4#vpn_domains
 nftset=/e-hentai.org/4#inet#fw4#vpn_domains
 nftset=/ehtracker.org/4#inet#fw4#vpn_domains
+nftset=/yt3.ggpht.com/4#inet#fw4#vpn_domains
