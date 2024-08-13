@@ -40,3 +40,5 @@ nftset=/googleapis.cn/4#inet#fw4#vpn_domains
 nftset=/gstatic.com/4#inet#fw4#vpn_domains
 nftset=/xn--ngstr-lra8j.com/4#inet#fw4#vpn_domains
 nftset=/gvt2.com/4#inet#fw4#vpn_domains
+nftset=/tiktokv.com/4#inet#fw4#vpn_domains
+nftset=/tiktokcdn.com/4#inet#fw4#vpn_domains
