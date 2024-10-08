@@ -52,3 +52,5 @@ nftset=/paheal.net/4#inet#fw4#vpn_domains
 nftset=/paheal-cdn.net/4#inet#fw4#vpn_domains
 nftset=/discord.gg/4#inet#fw4#vpn_domains
 nftset=/discordapp.com/4#inet#fw4#vpn_domains
+nftset=/discord.com/4#inet#fw4#vpn_domains
+nftset=/discord.media/4#inet#fw4#vpn_domains
