@@ -59,3 +59,4 @@ nftset=/sentry.io/4#inet#fw4#vpn_domains
 nftset=/frankerfacez.com/4#inet#fw4#vpn_domains
 nftset=/tiktok.net/4#inet#fw4#vpn_domains
 nftset=/ttwstatic.com/4#inet#fw4#vpn_domains
+nftset=/ttlivecdn.com/4#inet#fw4#vpn_domains
