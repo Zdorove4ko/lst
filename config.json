@@ -18,7 +18,7 @@
           "type": "vless",
           "server": "77.91.123.213",
           "server_port": 443,
-          "uuid": "9870c16d-6362-4b76-af05-cbdc396ca96f",
+          "uuid": "add23f99-df73-458c-be05-8160400add77",
           "flow": "xtls-rprx-vision",
           "packet_encoding": "xudp",
           "tls": {
