@@ -63,3 +63,4 @@ nftset=/akamai.net/4#inet#fw4#vpn_domains
 nftset=/nvidia.com/4#inet#fw4#vpn_domains
 nftset=/dtf.ru/4#inet#fw4#vpn_domains
 nftset=/chat.twitch.tv/4#inet#fw4#vpn_domains
+nftset=/coomer.su/4#inet#fw4#vpn_domains
