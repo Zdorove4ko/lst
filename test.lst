@@ -73,3 +73,4 @@ nftset=/babepedia.com/4#inet#fw4#vpn_domains
 nftset=/fakku.net/4#inet#fw4#vpn_domains
 nftset=/ttvnw.net/4#inet#fw4#vpn_domains
 nftset=/jtvnw.net/4#inet#fw4#vpn_domains
+nftset=/twitch.tv/4#inet#fw4#vpn_domains
