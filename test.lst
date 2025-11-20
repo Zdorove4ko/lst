@@ -127,3 +127,4 @@ nftset=/ati.com/4#inet#fw4#vpn_domains
 nftset=/amd.com/4#inet#fw4#vpn_domains
 nftset=/ibb.co/4#inet#fw4#vpn_domains
 nftset=/reddit.com/4#inet#fw4#vpn_domains
+nftset=/redditstatic.com/4#inet#fw4#vpn_domains
