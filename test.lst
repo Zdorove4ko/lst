@@ -129,3 +129,6 @@ nftset=/ibb.co/4#inet#fw4#vpn_domains
 nftset=/reddit.com/4#inet#fw4#vpn_domains
 nftset=/redditstatic.com/4#inet#fw4#vpn_domains
 nftset=/autoeq.app/4#inet#fw4#vpn_domains
+nftset=/saint2.cr/4#inet#fw4#vpn_domains
+nftset=/simpcity.is/4#inet#fw4#vpn_domains
+nftset=/bunkr.ru/4#inet#fw4#vpn_domains
